@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicole Peralta</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at (https://nicolescania.github.io/portafolio-v2/)
+- 👨‍💻 All of my projects are available at https://nicolescania.github.io/portafolio-v2/
 
 - 📫 How to reach me **escanianicole@gmail.com**
 
